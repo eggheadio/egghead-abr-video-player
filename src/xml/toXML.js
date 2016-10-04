@@ -5,3 +5,4 @@ const toXML = (str) => {
 };
 
 export { toXML };
+export default toXML;
